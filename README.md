@@ -1,6 +1,7 @@
 # Price prediction for AirBnB properties in Paris
 
 👉 [View the Project Presentation](finalpresentationseminar.pdf)
+👉 [View the Project Code Notebook](finalpresentationseminar.pdf)
 
 ## Project Overview
 
